@@ -9,3 +9,5 @@ Create a page for a city to welcome all super heros to apply for residence in th
 - Give us 3 examples of when you used your super hero abilities.
 
 Once the data is submitted you should be sent to a page thanking applicates for their time and they will hear back from the city as soon as possible. The header and footer data between the two pages should be the same.
+<hr>
+2 points.
